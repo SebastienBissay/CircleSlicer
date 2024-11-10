@@ -1,1 +1,28 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "POLYGON_NO_FILL": true,
+    "CIRCLE_RADIUS": 300.0,
+    "POLYGON_STROKEWEIGHT": 1.0,
+    "WIDTH": 1000,
+    "OFFSET_LOW": 0.5,
+    "HEIGHT": 1000,
+    "CIRCLE_POINTS": 100,
+    "OFFSET_HIGH": 2.0,
+    "BACKGROUND_COLOR": {
+      "red": 245.0,
+      "green": 241.0,
+      "blue": 227.0,
+      "alpha": 255.0
+    },
+    "POLYGON_NO_STROKE": false,
+    "NUMBER_OF_SLICES": 100,
+    "GAUSSIAN_MULTIPLIER": 0.5,
+    "SEED": 11,
+    "POLYGON_COLOR": {
+      "red": 70.0,
+      "green": 63.0,
+      "blue": 58.0,
+      "alpha": 255.0
+    }
+  }
+}
